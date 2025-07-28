@@ -11,7 +11,7 @@
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none; padding: 2px; line-height: 1.2;">
-      <em>Junior Web Developer | JavaScript · React.js · Next.js</em>
+      <em>Web Developer | JavaScript · React.js · Next.js</em>
     </td>
   </tr>
   <tr>
