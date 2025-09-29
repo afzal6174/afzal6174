@@ -49,26 +49,26 @@ _Shahjalal University of Science and Technology, Sylhet, Bangladesh_
 
 ## **Projects**
 
-### _**FormX** - Open Source form component system_
+### _**Form Builder** - a robust form builder platform_
 
-`JavaScript` `React` `Next.js` `TailwindCSS` `zod`
+`JavaScript` `React` `Next.js` `TailwindCSS` `Shadcn` `React Hook Form`
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td align="left" style="border: none;">
-      <strong>Source Code</strong>: <a href="https://github.com/afzal6174/formx">github.com/afzal6174/formx</a>
+      <strong>Source Code</strong>: <a href="https://github.com/afzal6174/form-builder">github.com/afzal6174/form-builder</a>
     </td>
     <td align="right" style="border: none;">
-      <strong>Live</strong>: <a href="https://formx-afzal.vercel.app/">formx-afzal.vercel.app</a>
+      <strong>Live</strong>: <a href="https://epepar-form.vercel.app/">epepar-form.vercel.app</a>
     </td>
   </tr>
 </table>
 
-> Built a powerful, reusable form component system using Next.js 15, React 19, and modern best practices.
+> Developed a reusable form builder system using Next.js 15, React 19, Shadcn UI, and React Hook Form.
 
-> This form system offers a solid foundation for building complex forms in React—balancing simplicity, accessibility, developer experience, and user-friendliness.
+> Implemented dynamic form creation, editing, and real-time preview with accessible and user-friendly UI.
 
-> The modular architecture makes it easy to extend with new input types, validation rules, and features.
+> Designed a scalable and maintainable architecture following modern best practices for performance and reusability.
 
 ---
 
@@ -76,5 +76,5 @@ _Shahjalal University of Science and Technology, Sylhet, Bangladesh_
 
 - **Languages:** JavaScript, TypeScript
 - **Library/Framework:** React, Next.js, TailwindCSS
-- **Backend/Database:** PostgreSQL, MongoDB, Prisma, Mongoose
-- **Tools & APIs:** Git, Postman, GraphQL, REST
+- **Backend/Database:** PostgreSQL, MongoDB, Prisma, Mongoose, Expressjs
+- **Tools & APIs:** Git, Postman, GraphQL, RESTAPI, Socket.IO, Docker
